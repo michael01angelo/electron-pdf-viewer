@@ -2398,3 +2398,7 @@ html[dir='rtl'] #documentPropertiesOverlay .row > * {
     display: none;
   }
 }
+
+#secondaryOpenFile, #secondaryDownload, #secondaryViewBookmark, #openFile, #download, #viewBookmark {
+  display: none;
+}
